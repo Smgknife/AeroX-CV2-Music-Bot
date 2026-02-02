@@ -1,16 +1,16 @@
 
 module.exports = {
-    BOT_TOKEN: process.env.BOT_TOKEN || '',
-    CLIENT_ID: process.env.CLIENT_ID || '',
-    OWNER_ID: process.env.OWNER_ID || '',
+    BOT_TOKEN: process.env.BOT_TOKEN || 'MTQ2Nzk0MTQwMjI2Nzc0NjQ2OQ.GBoBUz.666hQ5cVWhSbDYz6Tv_3pcIt-MB9hNztUT1w-4',
+    CLIENT_ID: process.env.CLIENT_ID || '1467941402267746469',
+    OWNER_ID: process.env.OWNER_ID || '1467941402267746469',
     PREFIX: ',',
     
     
     LAVALINK: {
-        HOSTS: process.env.LAVALINK_HOSTS || '',
-        PORTS: process.env.LAVALINK_PORTS || '',
-        PASSWORDS: process.env.LAVALINK_PASSWORDS || '',
-        SECURES: process.env.LAVALINK_SECURES || ''
+        HOSTS: process.env.LAVALINK_HOSTS || 'lavalinkv4.serenetia.com',
+        PORTS: process.env.LAVALINK_PORTS || '443',
+        PASSWORDS: process.env.LAVALINK_PASSWORDS || 'https://dsc.gg/ajidevserver',
+        SECURES: process.env.LAVALINK_SECURES || 'true'
     },
     
     
@@ -23,13 +23,13 @@ module.exports = {
     
     
     SPOTIFY: {
-        CLIENT_ID: process.env.SPOTIFY_CLIENT_ID || '',
-        CLIENT_SECRET: process.env.SPOTIFY_CLIENT_SECRET || ''
+        CLIENT_ID: process.env.SPOTIFY_CLIENT_ID || 'da88073ec4c14c3b8da27a4071482d51',
+        CLIENT_SECRET: process.env.SPOTIFY_CLIENT_SECRET || '43daf3259ab14b4ab0cc45c98764ac22'
     },
     
     
     GENIUS: {
-        API_KEY: process.env.GENIUS_API_KEY || ''
+        API_KEY: process.env.GENIUS_API_KEY || '08QMpVx0txiWXeh28e2qSGQbyZWZwyQoexXSd-Q6wWj8R64RjLX9nOS2b9fZonfe'
     }
 };
 
