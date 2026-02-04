@@ -1,8 +1,8 @@
 
 module.exports = {
-    BOT_TOKEN: process.env.BOT_TOKEN || 'MTQ2Nzk0MTQwMjI2Nzc0NjQ2OQ.GBoBUz.666hQ5cVWhSbDYz6Tv_3pcIt-MB9hNztUT1w-4',
-    CLIENT_ID: process.env.CLIENT_ID || '1467941402267746469',
-    OWNER_ID: process.env.OWNER_ID || '1467941402267746469',
+    BOT_TOKEN: process.env.BOT_TOKEN || 'MTQ1OTYyMjY5OTQ3ODI5MDY1Ng.G6gash.14KB_gFV7xojhdbdCQ6gS_r9lcvsjWWnGsm-SQ',
+    CLIENT_ID: process.env.CLIENT_ID || '1459622699478290656',
+    OWNER_ID: process.env.OWNER_ID || '1459622699478290656',
     PREFIX: ',',
     
     
